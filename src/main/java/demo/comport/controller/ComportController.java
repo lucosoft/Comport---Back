@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import demo.comport.model.Comport;
 import demo.comport.service.ComportService;
-import demo.comport.service.impl.Comport;
 
 @RestController
 public class ComportController {

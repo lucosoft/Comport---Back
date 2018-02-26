@@ -1,4 +1,4 @@
-package demo.comport.service.impl;
+package demo.comport.model;
 
 public class Comport {
 

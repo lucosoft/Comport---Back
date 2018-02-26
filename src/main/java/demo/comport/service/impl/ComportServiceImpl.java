@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.fazecast.jSerialComm.SerialPort;
 
+import demo.comport.model.Comport;
 import demo.comport.service.ComportService;
 
 @Service
