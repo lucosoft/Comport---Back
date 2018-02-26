@@ -7,5 +7,5 @@ Este proyecto es una interfaz con los puertos COM del host
 
 ## Diagramas
 Secuencia:
-![picture](diagrams/AngularSeedDemoSecuence.svg)
+![picture](diagrams/secuence.svg)
 
